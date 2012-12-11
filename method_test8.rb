@@ -40,6 +40,3 @@ puts apple.between?(water, cake)
 puts "----------------------"
 puts "are regular apple and red delicious apple the same (calories)?"
 puts apple == red_apple
-
-
-
